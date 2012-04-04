@@ -1,0 +1,4 @@
+This is a part of Renesas Android project, please use
+repo init -u https://github.com/renesas/platform_mainfest/ -b android-2.3.6_r1
+(Only android 2.3.6 r1 availble)
+
